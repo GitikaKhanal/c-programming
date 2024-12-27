@@ -4,5 +4,5 @@ cd c-programming-project
 gcc program.c -o program
 ./program
 ...
-lab 1
+
 
